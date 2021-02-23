@@ -292,7 +292,7 @@ header{
 	overflow: hidden;
 }
 .a-clients {
-	width: 36%;
+	width: 38%;
 	float: left;
 	margin-top: 50px;
 }
@@ -303,11 +303,11 @@ header{
 	border-radius: 50%;	
 	border: 5px solid #ddd;
 }
-.a-clients2{
-	width: 36%;
-	float: right; 
+.a-clients2 {
+	width: 32%;
+	float: right;
 	margin-top: 50px;
-
+	
 }
 
 .c-text {
