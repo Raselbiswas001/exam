@@ -129,6 +129,7 @@ header{
 	text-decoration: none;
 	text-transform: uppercase;
 	border-bottom: 1px solid transparent;
+	transition:.4s;
 }
 
 .menu ul li:last-child a{
