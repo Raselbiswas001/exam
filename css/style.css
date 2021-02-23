@@ -346,10 +346,11 @@ header{
 
 .logo_img {
 	padding: 70px 0;
-	margin: 0 80px;
+	
 }
 .logo_img img{
-	margin-right: 70px;
+	
+	margin-right: 40px;
 }
 
 /*clients start*/
