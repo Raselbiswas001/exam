@@ -129,9 +129,8 @@ header{
 	text-decoration: none;
 	text-transform: uppercase;
 	border-bottom: 1px solid transparent;
-	transition:.4s;
+	transition: .4s;
 }
-
 .menu ul li:last-child a{
 	margin-right: 0;
 }
@@ -292,14 +291,25 @@ header{
 	/*border: 2px solid blue;*/
 	overflow: hidden;
 }
-.c-img {
-	/*border: 1px solid red;*/
-	width: 35%;
+.a-clients {
+	width: 36%;
 	float: left;
+	margin-top: 50px;
 }
-.c-img img{
-	width: 100%;
+.c_div{
+	width: 350px;
+	height: 350px;
+	background: #000;
+	border-radius: 50%;	
+	border: 5px solid #ddd;
 }
+.a-clients2{
+	width: 36%;
+	float: right; 
+	margin-top: 50px;
+
+}
+
 .c-text {
 	/*border: 1px solid red;*/
 	width: 38%;
@@ -349,8 +359,9 @@ header{
 	background-color: #000;
 	padding: 100px 0;
 }
-.c-title2{
+.c-title2 {
 	text-align: center;
+	margin-bottom: 20px;
 }
 .c-title2 h2{
 	padding: 0;
@@ -364,16 +375,14 @@ header{
 	float: left;
 }
 
-.s-team img{}
-
 .s-team h3 {
 	font-family: Brandon_bld;
-	margin: 0;
+	margin: 15px 0 5px;
 	font-size: 18px;
 	font-weight: 900;
 	color: #fff;
+	
 }
-
 .s-team span{}
 .s-team span i{
 	color: #fff;
